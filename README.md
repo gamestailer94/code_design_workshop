@@ -26,6 +26,6 @@ sind nur Texteditoren allerdings nenenswert
 
 [PHPStorm][2] kann alles von WebStorm und zusätzlich PHP gibts es für 8,90€/Monat als private Lizenz
 
-[1]:(https://www.jetbrains.com/webstorm/)
-[2]:(https://www.jetbrains.com/phpstorm/)
-[3]:(https://code.visualstudio.com/)
+[1]:https://www.jetbrains.com/webstorm/
+[2]:https://www.jetbrains.com/phpstorm/
+[3]:https://code.visualstudio.com/
