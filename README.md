@@ -7,7 +7,7 @@ Das ist ein Grundgerüst für den Jump&Run Workshop
 Du brauchst
 
 1. [NodeJS](https://nodejs.org/de/)
-1. Eine IDE (sihe weiter unten)
+1. Eine IDE (siehe [Welche IDE soll ich verwenden?](https://github.com/gamestailer94/code_design_workshop#welche-ide-soll-ich-verwenden))
 1. Einen modernen Browser wie: Firefox, Chrome oder Opera
 
 
@@ -15,10 +15,10 @@ Du brauchst
 Ich empfehle [WebStorm](1) oder [PHPStorm](2), als kostenlose alternative [Visual Studio Code](3)
 
 ### Kostenlos
-[Visual Studio Code](3) Gute kostenfreie IDE
+[Visual Studio Code](3) ist eine gute und kostenfreie IDE
 
 [Brackets](http://brackets.io/) und [Atom from GitHub](https://atom.io/) 
-sind nur Texteditoren allerdings trordem nenenswert
+sind nur Texteditoren allerdings nenenswert
 
 ### Kostenpflichtig
 
