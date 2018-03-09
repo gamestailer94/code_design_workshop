@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "phaser-ce": "^2.10.1"
+  },
+  "scripts": {
+    "dev": "http-server"
+  }
+}
