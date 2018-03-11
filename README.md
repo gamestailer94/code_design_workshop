@@ -7,6 +7,7 @@ Das ist ein Grundgerüst für den Jump&Run Workshop
 Du brauchst
 
 1. [NodeJS](https://nodejs.org/de/)
+1. [Tiled Map Editor](http://www.mapeditor.org/)
 1. Eine IDE (siehe [Welche IDE soll ich verwenden?](https://github.com/gamestailer94/code_design_workshop#welche-ide-soll-ich-verwenden))
 1. Einen modernen Browser wie: Firefox, Chrome oder Opera
 
